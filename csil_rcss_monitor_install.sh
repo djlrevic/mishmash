@@ -1,6 +1,5 @@
 #!/bin/bash
 #Easy install of rcssmonitor on CSIL computers.
-#dreviczk@sfu.ca Oct 14 2017
 
 set -e #exit script if any cmd has nonzero exit value (error)
 
