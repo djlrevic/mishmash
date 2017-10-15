@@ -1,5 +1,6 @@
 #!/bin/bash
 #Easy install of rcssmonitor on CSIL computers.
+#Run this from inside the source directory, ie where the makefiles and configure are.
 
 set -e #exit script if any cmd has nonzero exit value (error)
 
